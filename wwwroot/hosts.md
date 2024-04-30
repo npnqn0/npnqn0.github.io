@@ -1,6 +1,6 @@
 
-# ��ַ���ܻ�䶯������ع�עGitHub��Gitlab��ȡ������Ϣ
-# Ҳ���Թ�ע���ںţ����н�����֤����·
+# 地址可能会变动，请务必关注GitHub、Gitlab获取最新消息
+# 也可以关注公众号：湖中剑，保证不迷路
 # GitHub Host Start
 
 185.199.108.154              github.githubassets.com
